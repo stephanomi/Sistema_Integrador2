@@ -1,0 +1,2 @@
+Realizamos las 14 HU, las cuales corresponden al Login, Registro de usuarios, Administración de usuarios, Atención de los casos de bullying, Recepeción de notificaciones sobre nuevos casos, Reporte de casos de bullying, Acceso a recursos educativos sobre bullying, Acceso a foros en línea, Visualización de estadísticas sobre casos de bullying y uso de la plataforma, Recepeción de notificaciones sobre una denuncia atendida y sobre actualizaciones en la plataforma.
+
